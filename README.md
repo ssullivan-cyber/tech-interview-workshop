@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Sean Sullivan  ssean03
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Jeriah Valencia jeriahv
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Although the interviewee did not complete a full solution to their problem, their thought process was logical and followed a clear mental algorithm. Their understanding of coding did not seem to be the cause of their failure. It more seemed to be the cause of choosing a flawed initial logical route.
